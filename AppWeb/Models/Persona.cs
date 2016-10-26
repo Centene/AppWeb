@@ -7,5 +7,7 @@ namespace AppWeb.Models
 {
     public class Persona
     {
+        string Nombre { get; set; }
+
     }
 }
